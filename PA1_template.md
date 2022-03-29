@@ -271,4 +271,4 @@ ggplot(df_interval2 , aes(x = interval , y = steps, color=weekday_or_weekend)) +
 
 ![](PA1_template_files/figure-markdown_github/unnamed-chunk-18-1.png)
 
-Thanks for reading!!
+Thanks for reading!

@@ -3,10 +3,10 @@ title: "Reproducible Research Course Project 1"
 author: "Prashant"
 date: "3/29/2022"
 output:
-  md_document:
-    variant: markdown_github
   html_document:
     df_print: paged
+  md_document:
+    variant: markdown_github
 ---
 
 
@@ -177,4 +177,3 @@ ggplot(df_interval2 , aes(x = interval , y = steps, color=weekday_or_weekend)) +
 ```
 
 Thanks for reading!!
-
