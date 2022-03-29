@@ -233,4 +233,4 @@ averaged across all weekday days or weekend days (y-axis).
 
 ![](PA1_template_files/figure-markdown_strict/unnamed-chunk-18-1.png)
 
-Thanks for reading.
+Thanks for reading!

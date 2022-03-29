@@ -175,4 +175,4 @@ ggplot(df_interval2 , aes(x = interval , y = steps, color=weekday_or_weekend)) +
 
 ```
 
-Thanks for reading.
+Thanks for reading!
