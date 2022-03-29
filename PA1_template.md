@@ -56,7 +56,7 @@ Unzip data to obtain a csv file.
 
 Reading csv data.
 
-    df <- read.csv("activity.csv")
+    df <- read.csv("data/activity.csv")
     head(df, 10)
 
     ##    steps       date interval

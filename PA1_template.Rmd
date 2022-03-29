@@ -3,9 +3,9 @@ title: "Reproducible Research Course Project 1"
 author: "Prashant"
 date: "3/29/2022"
 output:
-  md_document: default
   html_document:
     df_print: paged
+  md_document: default
 ---
 
 
@@ -38,7 +38,7 @@ unzip("repdata%2Fdata%2Factivity.zip",exdir = "data")
 
 Reading csv data.  
 ```{r}
-df <- read.csv("activity.csv")
+df <- read.csv("data/activity.csv")
 head(df, 10)
 ```
   
