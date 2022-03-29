@@ -38,7 +38,7 @@ unzip("repdata%2Fdata%2Factivity.zip",exdir = "data")
 
 Reading csv data.  
 ```{r}
-df <- read.csv("activity.csv")
+df <- read.csv("data/activity.csv")
 head(df, 10)
 ```
   
